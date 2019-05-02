@@ -51,7 +51,7 @@ const renderQuote = quote => {
 //render all quotes
 const renderQuotes = quotes => {
     quotes.forEach(renderQuote)
-    // state.quotes = quotes
+
 }
 
 // create a new Quote using the form
